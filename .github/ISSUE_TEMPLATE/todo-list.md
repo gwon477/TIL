@@ -7,10 +7,10 @@ assignees: gwon477
 
 ---
 
-## 날짜
+## DATE
 
-## 할일
+## TODO
 - [] 
 
 ---
-## 참고 내용
+## Referance

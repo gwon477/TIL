@@ -6,25 +6,25 @@
 # 입력받은 값을 dictionary에 저장한다.
 # for 루프 : O(N)
 
-# def two_sum(nums,target):
-#     dic = {}
-#     for _ in nums:
-#         dic[_] = 1
+def two_sum(nums,target):
+    dic = {}
+    for _ in nums:
+        dic[_] = 1
         
-#     for _ in nums:
-#         dic[_] = 0
-#         k = target - _
-#         if (k in dic) and (dic[k] != 0):
-#             return(True)
-#     return(False)
+    for _ in nums:
+        dic[_] = 0
+        k = target - _
+        if (k in dic) and (dic[k] != 0):
+            return(True)
+    return(False)
 
-# # 입력 받기
-# import sys
+# 입력 받기
+import sys
 
-# t = int(sys.stdin.readline().strip())
-# n = list(map(int,sys.stdin.readline().strip().split()))
+t = int(sys.stdin.readline().strip())
+n = list(map(int,sys.stdin.readline().strip().split()))
 
-# print(two_sum(n,t))
+print(two_sum(n,t))
 
 #================================================================================================================================================
 # 대표 예제 : Longest Consecutive Sequence  문제
@@ -34,24 +34,24 @@ import sys
 
 nums = list(map(int,sys.stdin.readline().strip().split()))
 
-# def solSort(nums):
-#     cnt = 1
-#     res = 1
-#     # nums를 정렬
-#     # 시간복잡도 O(NlogN)
-#     nums.sort()
+def solSort(nums):
+    cnt = 1
+    res = 1
+    # nums를 정렬
+    # 시간복잡도 O(NlogN)
+    nums.sort()
         
-#     for i in range(len(nums)-1):
-#         if nums[i]+1 == nums[i+1]:
-#             cnt += 1
-#         else:
-#             res = max(res, cnt)
-#             cnt = 0 
-#     res = max(res, cnt)
+    for i in range(len(nums)-1):
+        if nums[i]+1 == nums[i+1]:
+            cnt += 1
+        else:
+            res = max(res, cnt)
+            cnt = 0 
+    res = max(res, cnt)
     
-#     return res
+    return res
 
-# print(solSort(nums))
+print(solSort(nums))
 
 
 # 풀이방식 : Hash map
@@ -60,6 +60,7 @@ def solHash(nums):
     dic = {}
     res = 0
     
+    # num_set = set(nums) 처럼 작성해도 같다.
     for _ in nums:
         dic[_]= 1
     
@@ -68,8 +69,8 @@ def solHash(nums):
             cnt = 1
             target = num + 1
             while target in dic:
-                target +=1
-                cnt +=1
+                target += 1
+                cnt += 1
             res = max(res,cnt)
     return res
 

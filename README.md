@@ -6,10 +6,13 @@
 <div markdown="1">
 [ 2024-07-16 화 ]
 부대복귀(BFS) - https://school.programmers.co.kr/learn/courses/30/lessons/132266
+  
 합승택시요금 - https://school.programmers.co.kr/learn/courses/30/lessons/72413
 
 ❑ 서브쿼리
+
 https://school.programmers.co.kr/learn/courses/30/lessons/131124
+
 https://school.programmers.co.kr/learn/courses/30/lessons/62284
 </div>
 </details>

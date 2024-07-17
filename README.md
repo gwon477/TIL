@@ -4,16 +4,14 @@
 <details>
 <summary>07.16</summary>
 <div markdown="1">
+  
 [ 2024-07-16 화 ]   
 부대복귀(BFS) - https://school.programmers.co.kr/learn/courses/30/lessons/132266   
 합승택시요금 - https://school.programmers.co.kr/learn/courses/30/lessons/72413
 
 ❑ 서브쿼리
-
 https://school.programmers.co.kr/learn/courses/30/lessons/131124
-
 https://school.programmers.co.kr/learn/courses/30/lessons/62284
-
 https://school.programmers.co.kr/learn/courses/30/lessons/133027
 
 
@@ -23,6 +21,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/133027
 <details>
 <summary>07.11</summary>
 <div markdown="1">
+  
 거리두기 확인하기 - https://school.programmers.co.kr/learn/courses/30/lessons/81302
 셔틀버스 - https://school.programmers.co.kr/learn/courses/30/lessons/17678
 

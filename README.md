@@ -2,7 +2,18 @@
 매일 공부 내용 기록
 
 <details>
-<summary>07.16</summary>
+<summary>07.23</summary>
+<div markdown="1">
+
+[ 2024-07-23 화 ]    
+풍선 터트리기 - https://school.programmers.co.kr/learn/courses/30/lessons/68646    
+자물쇠와 열쇠 - https://school.programmers.co.kr/learn/courses/30/lessons/60059     
+
+</div>
+</details>
+
+<details>
+<summary>07.22</summary>
 <div markdown="1">
 
 [ 2024-07-22 월 ]    

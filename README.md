@@ -4,6 +4,19 @@
 <details>
 <summary>07.16</summary>
 <div markdown="1">
+
+[ 2024-07-22 월 ]    
+땅따먹기 - https://school.programmers.co.kr/learn/courses/30/lessons/12913      
+
+❑ SQL(Lv4, Lv5)     
+https://school.programmers.co.kr/learn/courses/30/lessons/157339     
+https://school.programmers.co.kr/learn/courses/30/lessons/131534     
+</div>
+</details>
+
+<details>
+<summary>07.16</summary>
+<div markdown="1">
   
 [ 2024-07-16 화 ]   
 부대복귀(BFS) - https://school.programmers.co.kr/learn/courses/30/lessons/132266   

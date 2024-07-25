@@ -2,14 +2,14 @@
 매일 공부 내용 기록
 
 <details>
-<summary>07.23</summary>
+<summary>07.25</summary>
 <div markdown="1">
 
 [ 2024-07-25 목 ]    
 단속카메라 - https://school.programmers.co.kr/learn/courses/30/lessons/42884    
 
-❑ SQL    
-https://school.programmers.co.kr/learn/courses/30/lessons/131118 - Lv.4     
+❑ SQL(Lv.4)    
+https://school.programmers.co.kr/learn/courses/30/lessons/131118     
 
 </div>
 </details>

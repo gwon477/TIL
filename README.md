@@ -5,9 +5,21 @@
 <summary>07.23</summary>
 <div markdown="1">
 
+[ 2024-07-25 목 ]    
+단속카메라 - https://school.programmers.co.kr/learn/courses/30/lessons/42884    
+
+❑ SQL    
+https://school.programmers.co.kr/learn/courses/30/lessons/131118 - Lv.4     
+
+</div>
+</details>
+
+<details>
+<summary>07.23</summary>
+<div markdown="1">
+
 [ 2024-07-23 화 ]    
 풍선 터트리기 - https://school.programmers.co.kr/learn/courses/30/lessons/68646    
-자물쇠와 열쇠 - https://school.programmers.co.kr/learn/courses/30/lessons/60059     
 석유 시추 - https://school.programmers.co.kr/learn/courses/30/lessons/250136
 
 </div>

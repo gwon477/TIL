@@ -2,6 +2,18 @@
 매일 공부 내용 기록
 
 <details>
+<summary>07.31</summary>
+<div markdown="1">
+
+[ 2024-07-31 수 ]    
+PCCP모의고사 1회 1번 - https://school.programmers.co.kr/learn/courses/15008/lessons/121683   
+PCCP모의고사 1회 2번 - https://school.programmers.co.kr/learn/courses/15008/lessons/121684    
+PCCP모의고사 1회 4번 - https://school.programmers.co.kr/learn/courses/15008/lessons/121686 (미완성)   
+
+</div>
+</details>
+
+<details>
 <summary>07.25</summary>
 <div markdown="1">
 

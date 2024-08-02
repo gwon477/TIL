@@ -32,14 +32,7 @@ def checking(graph,cur_x,cur_y):
     
     return score
 
-# 학생 배치
-def setStudents(sits,graph):
-    answer = 0
-    
-    for student in graph:
-        
-    
-    return answer
+
 
 
 

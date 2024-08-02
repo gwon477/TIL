@@ -2,6 +2,20 @@
 매일 공부 내용 기록
 
 <details>
+<summary>08.01</summary>
+<div markdown="1">
+
+[ 2024-08-01 목 ]    
+디펜스 게임 - https://school.programmers.co.kr/learn/courses/30/lessons/142085    
+점 찍기 - https://school.programmers.co.kr/learn/courses/30/lessons/140107     
+
+❑ SQL       
+입양사각 구히기 - https://school.programmers.co.kr/learn/courses/30/lessons/59413
+
+</div>
+</details>
+
+<details>
 <summary>07.31</summary>
 <div markdown="1">
 

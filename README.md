@@ -2,6 +2,20 @@
 매일 공부 내용 기록
 
 <details>
+<summary>08.05</summary>
+<div markdown="1">
+
+[ 2024-08-05 일 ]    
+❑ SQL       
+업그레이드 할 수 없는 아이템 구하기 - https://school.programmers.co.kr/learn/courses/30/lessons/273712       
+특정 조건을 만족하는 물고기별 수와 최대 길이 구하기 - https://school.programmers.co.kr/learn/courses/30/lessons/298519       
+연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기 - https://school.programmers.co.kr/learn/courses/30/lessons/284528      
+대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 - https://school.programmers.co.kr/learn/courses/30/lessons/151139
+    
+</div>
+</details>
+
+<details>
 <summary>08.01</summary>
 <div markdown="1">
 

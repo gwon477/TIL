@@ -1,6 +1,19 @@
 # TIL
 매일 공부 내용 기록
 
+
+<details>
+<summary>08.05</summary>
+<div markdown="1">
+
+[ 2024-08-06 월 ]        
+요격 시스템 - https://school.programmers.co.kr/learn/courses/30/lessons/181188     
+호텔 대실 - https://school.programmers.co.kr/learn/courses/30/lessons/155651       
+
+</div>
+</details>
+
+
 <details>
 <summary>08.05</summary>
 <div markdown="1">

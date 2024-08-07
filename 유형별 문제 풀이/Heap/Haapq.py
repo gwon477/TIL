@@ -15,4 +15,3 @@ for _ in l:
             print(heapq.heappop(answer))
     else:
         heapq.heappush(answer,_)
-    

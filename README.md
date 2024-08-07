@@ -6,8 +6,9 @@
 <div markdown="1">
 
 [ 2024-08-07 수 ]        
-타노스 - https://www.acmicpc.net/problem/20310 
-
+타노스 - https://www.acmicpc.net/problem/20310      
+최소 힙 - https://www.acmicpc.net/problem/1927    
+주식 - https://www.acmicpc.net/problem/11501    
 
 </div>
 </details>

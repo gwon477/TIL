@@ -1,7 +1,6 @@
 # https://www.acmicpc.net/problem/20310
 
 import sys
-from itertools import permutations
 
 S = list(sys.stdin.readline())
 

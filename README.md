@@ -1,6 +1,17 @@
 # TIL
 매일 공부 내용 기록
 
+<details>
+<summary>08.07</summary>
+<div markdown="1">
+
+[ 2024-08-07 수 ]        
+타노스 - https://www.acmicpc.net/problem/20310 
+
+
+</div>
+</details>
+
 
 <details>
 <summary>08.05</summary>

@@ -189,16 +189,11 @@
 <br>
 
 
-[목차로](#-알고리즘-목차)
+[목차로](#알고리즘-목차)
 
-
+<br>
 ---
 
-- [유형1: GROUP BY](#유형1-GROUP-BY)
-- [유형2: JOIN](#유형2-JOIN)
-- [유형3: SELECT](#유형3-SELECT)
-- [유형4: STRING/DATE](#유형4-STRING/DATE)
-- [유형5: IS NULL](#유형5-IS-NULL)
 
 <details>
 <summary><strong id="유형1-GROUP-BY"> 유형1: GROUP BY</strong></summary>
@@ -247,10 +242,8 @@
 
 
 
-[목차로](#-SQL-목차)
-
-
-
+[목차로](#SQL-목차)
+<br>
 
 
 ---

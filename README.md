@@ -85,7 +85,7 @@
 
 | 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
-| 디팬스 게임 | 우선 순위 큐 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%94%94%ED%8E%9C%EC%8A%A4%EA%B2%8C%EC%9E%84.py) | 🔥 |
+| 디팬스 게임 | 우선 순위 큐 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%94%94%ED%8E%9C%EC%8A%A4%EA%B2%8C%EC%9E%84.py) | 🔥🔥 |
 | 호텔 대실 | 우선 순위 큐 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.py) | 🔥 |
 | | | | | | | |
 | 최소 힙 | 우선 순위 큐 | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/1927) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/Haapq.py) | 🔥🔥 |
@@ -127,7 +127,7 @@
 | 요격 시스템 | 그리디 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%9A%94%EA%B2%A9%EC%8B%9C%EC%8A%A4%ED%85%9C.py) | 🔥 |
 | 단속 카메라 | 그리디 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | 🔥 |
 | | | | | | | |
-| 주식 | 그리디 | 백준 | Lv 2 | [문제](https://www.acmicpc.net/problem/11501) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%A3%BC%EC%8B%9D.py) | 🔥 |
+| 주식 | 그리디 | 백준 | Lv 2 | [문제](https://www.acmicpc.net/problem/11501) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%A3%BC%EC%8B%9D.py) | 🔥🔥 |
 | 타노스 | 그리디 | 백준 | Lv 2 | [문제](https://www.acmicpc.net/problem/20310) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%83%80%EB%85%B8%EC%8A%A4.py) | 🔥🔥 |
 
 </details>

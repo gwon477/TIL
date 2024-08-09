@@ -163,7 +163,7 @@
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
 | 입국 심사 | 탐색 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).py) | 🔥 |
 | | | | | | | |
-| 제곱근 | 이분 탐색 | 백준 | Silver 4 | [문제]https://www.acmicpc.net/problem/13706) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89(13706%EB%B2%88).py) | 🔥 |
+| 제곱근 | 이분 탐색 | 백준 | Silver 4 | [문제](https://www.acmicpc.net/problem/13706) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89(13706%EB%B2%88).py) | 🔥 |
 
 </details>
 

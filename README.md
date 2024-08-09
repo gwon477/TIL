@@ -88,7 +88,7 @@
 | | | | | | | |
 | 숫자 카드 | 해시를 사용한 집합과 맵 | 백준 | Silver 5 | [문제](https://www.acmicpc.net/problem/10815) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Hash/hash(10815%EB%B2%88).py) | 🔥 |
 | 숫자 카드 2 | 해시를 사용한 집합과 맵 | 백준 | Silver 4 | [문제](https://www.acmicpc.net/problem/10816) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Hash/hash(10816%EB%B2%88).py) | 🔥 |
-| 가희와 키워드 | 해시를 사용한 집합과 맵 | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/22233) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Hash/hash(10816%EB%B2%88).py) | 🔥 |
+| 가희와 키워드 | 해시를 사용한 집합과 맵 | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/22233) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Hash/%EA%B0%80%ED%9D%AC%EC%99%80%20%ED%82%A4%EC%9B%8C%EB%93%9C.md) | 🔥 |
 
 
 </details>
@@ -100,7 +100,7 @@
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
 | 디팬스 게임 | 우선 순위 큐 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%94%94%ED%8C%AC%EC%8A%A4%EA%B2%8C%EC%9E%84.md) | 🔥🔥 |
 | 호텔 대실 | 우선 순위 큐 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.py) | 🔥 |
-| 더 맵게 | 우선 순위 큐, heapify | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.py) | 🔥 |
+| 더 맵게 | 우선 순위 큐, heapify | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.md) | 🔥 |
 | | | | | | | |
 | 최소 힙 | 우선 순위 큐 | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/1927) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EC%B5%9C%EC%86%8C%ED%9E%99.md) | 🔥🔥 |
 
@@ -127,7 +127,7 @@
 | 점찍기 | 구현 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.py) | 🔥 |
 | 최고의 집합 | 구현 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/Haapq.py) | 🔥 |
 | 합승 택시 요금 | 구현 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%94%94%ED%8E%9C%EC%8A%A4%EA%B2%8C%EC%9E%84.py) | 🔥 |
-| 인사 고과 | 구현 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%94%94%ED%8E%9C%EC%8A%A4%EA%B2%8C%EC%9E%84.py) | 🔥 |
+| 인사 고과 | 구현 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC.md) | 🔥 |
 | | | | | | | |
 | 수열 | 구현 | 백준 | Silver 4 | [문제](https://www.acmicpc.net/problem/2491) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/Haapq.py) | 🔥 |
 | 비슷한 단어 | 구현 | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/2607) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/2607%EB%B2%88.py) | 🔥 |

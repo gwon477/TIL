@@ -60,6 +60,7 @@
 | 여행경로 | BFS | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Graph/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py) | 🔥 |
 | | | | | | | |
 | 단지번호붙이기 | BFS | 백준 | Silver 1 | [문제](https://www.acmicpc.net/problem/2667) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Graph/2667%EB%B2%88.py) | 🔥 |
+| 쉬운 최단 거리 | BFS | 백준 | Silver 1 | [문제](https://www.acmicpc.net/problem/14940) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Graph/2667%EB%B2%88.py) | 🔥 |
 | 아기 상어 | BFS | 백준 | Gold 3 | [문제](https://www.acmicpc.net/problem/16236) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Graph/%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.py) | 🔥 |
 | 토마토 | BFS | 백준 | Gold 5 | [문제](https://www.acmicpc.net/problem/7576) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Graph/%ED%86%A0%EB%A7%88%ED%86%A0.py) | 🔥 |
 

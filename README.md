@@ -19,6 +19,7 @@
 - [유형10: 탐색](#유형10-탐색)
 - [유형11: 재귀](#유형11-재귀)
 - [유형12: 문자열](#유형12-문자열)
+- [유형13: 슬라이딩 윈도우](#유형13-슬라이딩-윈도우)
 
 
 ### SQL 목차
@@ -187,6 +188,17 @@
 | 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
 | LCS | 문자열 부분 집합 | - | - | [문제](https://www.acmicpc.net/problem/1927) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95/%EB%AC%B8%EC%9E%90%EC%97%B4/LCS.py) | 🔥 |
+| LPS(KMP) | 문자 패턴 확인 | - | - | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95/%EB%AC%B8%EC%9E%90%EC%97%B4/LPS(%3DKMP).py) | 🔥 |
+
+</details>
+
+
+<details>
+<summary><strong id="유형13-슬라이딩-윈도우"> 유형13: 슬라이딩 윈도우</strong></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
+|:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
+| 연속된 부분 수열의 합 | 슬라이딩 윈도우 | 프로그래머스 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95/%EB%AC%B8%EC%9E%90%EC%97%B4/LCS.py) | 🔥 |
 | LPS(KMP) | 문자 패턴 확인 | - | - | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95/%EB%AC%B8%EC%9E%90%EC%97%B4/LPS(%3DKMP).py) | 🔥 |
 
 </details>

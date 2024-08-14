@@ -19,7 +19,6 @@
 - [유형10: 탐색](#유형10-탐색)
 - [유형11: 재귀](#유형11-재귀)
 - [유형12: 문자열](#유형12-문자열)
-- [유형13: 슬라이딩 윈도우](#유형13-슬라이딩-윈도우)
 
 
 ### SQL 목차
@@ -103,6 +102,7 @@
 | 디팬스 게임 | 우선 순위 큐 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%94%94%ED%8C%AC%EC%8A%A4%EA%B2%8C%EC%9E%84.md) | 🔥🔥 |
 | 호텔 대실 | 우선 순위 큐 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.py) | 🔥 |
 | 더 맵게 | 우선 순위 큐, heapify | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.md) | 🔥 |
+| 운영체제 | 우선 순위 큐, 인덱스 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/15008/lessons/121686) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.md) | 🔥 |
 | | | | | | | |
 | 최소 힙 | 우선 순위 큐 | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/1927) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EC%B5%9C%EC%86%8C%ED%9E%99.md) | 🔥🔥 |
 
@@ -189,19 +189,10 @@
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
 | LCS | 문자열 부분 집합 | - | - | [문제](https://www.acmicpc.net/problem/1927) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95/%EB%AC%B8%EC%9E%90%EC%97%B4/LCS.py) | 🔥 |
 | LPS(KMP) | 문자 패턴 확인 | - | - | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95/%EB%AC%B8%EC%9E%90%EC%97%B4/LPS(%3DKMP).py) | 🔥 |
-
-</details>
-
-
-<details>
-<summary><strong id="유형13-슬라이딩-윈도우"> 유형13: 슬라이딩 윈도우</strong></summary>
-
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
-|:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
 | 연속된 부분 수열의 합 | 슬라이딩 윈도우 | 프로그래머스 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95/%EB%AC%B8%EC%9E%90%EC%97%B4/LCS.py) | 🔥 |
-| LPS(KMP) | 문자 패턴 확인 | - | - | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95/%EB%AC%B8%EC%9E%90%EC%97%B4/LPS(%3DKMP).py) | 🔥 |
 
 </details>
+
 
 
 <br>

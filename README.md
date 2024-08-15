@@ -21,7 +21,7 @@
 - [유형12: 문자열](#유형12-문자열)
 
 
-### SQL 목차
+### 🔖 SQL 목차
 - [유형1: GROUP BY](#유형1-GROUP-BY)
 - [유형2: JOIN](#유형2-JOIN)
 - [유형3: SELECT](#유형3-SELECT)

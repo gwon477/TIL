@@ -89,8 +89,9 @@
 | 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
 | 폰캣몬 | Hash | 프로그래머스 | Lv 1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Hash/hash(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%3A%ED%8F%AC%EC%BC%93%EB%AA%AC).py) | 🔥 |
+| 테이블 해시 함수 | Hash | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Hash/hash(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%3A%ED%8F%AC%EC%BC%93%EB%AA%AC).py) | 🔥 |
 | | | | | | | |
-| 숫자 카드 | 해시를 사용한 집합과 맵 | 백준 | Silver 5 | [문제](https://www.acmicpc.net/problem/10815) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Hash/hash(10815%EB%B2%88).py) | 🔥 |
+| 숫자 카드 | 해시를 사용한 집합과 맵 | 백준 | Silver 5 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Hash/hash(10815%EB%B2%88).py) | 🔥 |
 | 숫자 카드 2 | 해시를 사용한 집합과 맵 | 백준 | Silver 4 | [문제](https://www.acmicpc.net/problem/10816) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Hash/hash(10816%EB%B2%88).py) | 🔥 |
 | 가희와 키워드 | 해시를 사용한 집합과 맵 | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/22233) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Hash/%EA%B0%80%ED%9D%AC%EC%99%80%20%ED%82%A4%EC%9B%8C%EB%93%9C.md) | 🔥 |
 

@@ -13,6 +13,7 @@ def solution(a):
     for i in range(n-2, -1, -1):
         right_min[i] = min(right_min[i+1], a[i])
     
+    
     # Step 3: Determine the number of balloons that can be the last one left
     count = 0
     for i in range(n):

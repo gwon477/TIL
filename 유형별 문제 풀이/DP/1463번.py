@@ -25,4 +25,3 @@ def backtraking(curr, cnt):
         
 backtraking(N,0)
 print(ans[0])
-

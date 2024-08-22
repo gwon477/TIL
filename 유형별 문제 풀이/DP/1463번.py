@@ -11,7 +11,7 @@ def backtraking(curr, cnt):
     elif curr%3 == 0:
         curr = curr//3
         cnt += 1
-        backtraking(curr=curr, cnt=cnt)
+        backtraking(curr=curr, cnt=cnt) 
     
     elif curr%2 == 0:
         curr = curr//2

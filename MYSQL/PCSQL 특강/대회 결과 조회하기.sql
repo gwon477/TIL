@@ -1,0 +1,65 @@
+WITH Users AS (
+    SELECT DISTINCT USER_ID
+    FROM SUBMISSIONS
+),
+Correct_Submissions AS (
+    SELECT 
+        S.USER_ID,
+        S.PROBLEM_ID,
+        MIN(S.TIMESTAMP) AS FIRST_CORRECT_TIMESTAMP,
+        P.SCORE
+    FROM 
+        SUBMISSIONS S
+    JOIN 
+        PROBLEMS P ON S.PROBLEM_ID = P.PROBLEM_ID
+    WHERE 
+        S.SUBMITTED = P.CORRECT_ANSWER
+    GROUP BY 
+        S.USER_ID, S.PROBLEM_ID
+),
+Penalty_Calculation AS (
+    SELECT 
+        S.USER_ID,
+        S.PROBLEM_ID,
+        COUNT(*) * 300 AS PENALTY
+    FROM 
+        SUBMISSIONS S
+    JOIN 
+        PROBLEMS P ON S.PROBLEM_ID = P.PROBLEM_ID
+    LEFT JOIN 
+        Correct_Submissions CS 
+        ON S.USER_ID = CS.USER_ID 
+        AND S.PROBLEM_ID = CS.PROBLEM_ID 
+        AND S.TIMESTAMP < CS.FIRST_CORRECT_TIMESTAMP
+    WHERE 
+        CS.FIRST_CORRECT_TIMESTAMP IS NOT NULL
+        AND S.SUBMITTED != P.CORRECT_ANSWER
+    GROUP BY 
+        S.USER_ID, S.PROBLEM_ID
+),
+Final_Result AS (
+    SELECT 
+        U.USER_ID,
+        COALESCE(SUM(CS.SCORE), 0) AS TOTAL_SCORE,
+        COALESCE(MAX(CS.FIRST_CORRECT_TIMESTAMP) + COALESCE(SUM(PC.PENALTY), 0), 0) AS TIME_TAKEN
+    FROM 
+        Users U
+    LEFT JOIN 
+        Correct_Submissions CS ON U.USER_ID = CS.USER_ID
+    LEFT JOIN 
+        Penalty_Calculation PC ON CS.USER_ID = PC.USER_ID 
+        AND CS.PROBLEM_ID = PC.PROBLEM_ID
+    GROUP BY 
+        U.USER_ID
+)
+
+SELECT 
+    FR.USER_ID,
+    FR.TOTAL_SCORE,
+    FR.TIME_TAKEN
+FROM 
+    Final_Result FR
+ORDER BY 
+    FR.TOTAL_SCORE DESC,
+    FR.TIME_TAKEN ASC,
+    FR.USER_ID ASC;

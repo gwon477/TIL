@@ -28,6 +28,10 @@
 - [유형4: STRING/DATE](#유형4-STRING/DATE)
 - [유형5: IS NULL](#유형5-IS-NULL)
 
+<br>
+
+- [PCSQL 특강](#특강-PCSQL)
+
 
 <br>
 
@@ -261,6 +265,21 @@
 | 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
 |  |  |  |  | [문제]() | [풀이]() | 🔥 |
+
+</details>
+
+<br>
+
+<details>
+<summary><strong id="특강-PCSQL"> 특강: PCSQL대비</strong></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
+|:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
+| 오래된 테이블 합치기 | - | 프로그래머스 | Lv1 | [문제](https://campus.programmers.co.kr/app/courses/24590/curriculum/lessons/337123#part-73367) | [풀이]() | 🔥 |
+| 가장 많이 출제된 알고리즘 유형 | - | 프로그래머스 | Lv1 | [문제](https://campus.programmers.co.kr/app/courses/24590/curriculum/lessons/337124#part-73367) | [풀이]() | 🔥 |
+| 확정된 회의실 예약 요청 | - | 프로그래머스 | Lv1 | [문제](https://campus.programmers.co.kr/app/courses/24590/curriculum/lessons/337127#part-73367) | [풀이]() | 🔥 |
+| n번째 제출의 정답률 | - | 프로그래머스 | Lv1 | [문제](https://campus.programmers.co.kr/app/courses/24590/curriculum/lessons/337128#part-73367) | [풀이]() | 🔥 |
+| 대회 결과 조회하기 | - | 프로그래머스 | Lv1 | [문제](https://campus.programmers.co.kr/app/courses/24590/curriculum/lessons/337129#part-73367) | [풀이]() | 🔥 |
 
 </details>
 

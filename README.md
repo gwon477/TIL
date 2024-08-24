@@ -255,7 +255,9 @@
 
 | 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
-| 취소되지 않은 진료 예약 조회하기 | String | 프로그래머스 | Lv4 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | [풀이]() | 🔥 |
+| 조건 별로 분류하여 주문상태 출력하기 | String | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | [풀이]() | 🔥 |
+| 취소되지 않은 진료 예약 조회하기 | String | 프로그래머스 | Lv4 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131113) | [풀이]() | 🔥 |
+
 
 </details>
 

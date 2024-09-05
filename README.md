@@ -133,6 +133,7 @@
 | 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
 | 택배상자 | 스택 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.md) | 🔥 |
+| 프로세스 | 스택 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.md) | 🔥 |
 | | | | | | | |
 | 프린터 큐 | 스택 | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/1966) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Stack/1966.py) | 🔥 |
 | 단어 뒤집기 2 | 스택 | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/17413) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Stack/stack(17413%EB%B2%88).py) | 🔥 |

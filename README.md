@@ -88,6 +88,7 @@
 | 스티커 모으기 B | DP | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/%ED%92%8D%EC%84%A0%ED%84%B0%EB%9C%A8%EB%A6%AC%ED%82%A4.py) | 🔥 |
 | 연속된 펄스 부분 수열의 합 | DP | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/161988#qna) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/%EC%97%B0%EC%86%8D%EB%90%9C%20%ED%8E%84%EC%8A%A4%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.md) | 🔥 |
 | | | | | | | |
+| 퇴사 | DP | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/14501) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/11055%EB%B2%88.py) | 🔥 |
 | 가장 큰 증가하는 부분 수열 | DP | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/11055) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/11055%EB%B2%88.py) | 🔥 |
 | 1로 만들기 | DP | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/1463) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/1463%EB%B2%88.py) | 🔥 |
 
@@ -167,6 +168,7 @@
 | | | | | | | |
 | 수열 | 구현 | 백준 | Silver 4 | [문제](https://www.acmicpc.net/problem/2491) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/Haapq.py) | 🔥 |
 | 비슷한 단어 | 구현 | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/2607) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/2607%EB%B2%88.py) | 🔥 |
+| 꽃길 | 구현 | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/14620) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/2607%EB%B2%88.py) | 🔥 |
 | 상어 초등학교 | 구현 | 백준 | Gold 5 | [문제](https://www.acmicpc.net/problem/21608) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.md) | 🔥🔥 |
 </details>
 

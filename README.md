@@ -239,6 +239,7 @@
 | 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
 | 소수찾기 | 완전탐색 | 프로그래머스 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95/%EB%AC%B8%EC%9E%90%EC%97%B4/LCS.py) | 🔥 |
+| 피로도 | 완전탐색 | 프로그래머스 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95/%EB%AC%B8%EC%9E%90%EC%97%B4/LCS.py) | 🔥 |
 
 </details>
 

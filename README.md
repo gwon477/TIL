@@ -93,8 +93,10 @@
 | 합승 택시 요금 | DP + 다익스트라 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/%EB%94%94%ED%8E%9C%EC%8A%A4%EA%B2%8C%EC%9E%84.py) | 🔥🔥 |
 | | | | | | | |
 | 퇴사 | DP | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/14501) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/11055%EB%B2%88.py) | 🔥 |
-| 가장 큰 증가하는 부분 수열 | DP | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/11055) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/11055%EB%B2%88.py) | 🔥 |
 | 1로 만들기 | DP | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/1463) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/1463%EB%B2%88.py) | 🔥 |
+| 계단 오르기 | DP | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/2579) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/1463%EB%B2%88.py) | 🔥 |
+| 가장 큰 증가하는 부분 수열 | DP | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/11055) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/11055%EB%B2%88.py) | 🔥 |
+
 
 </details>
 

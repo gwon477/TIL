@@ -79,7 +79,6 @@
 
 | 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
-| 체육대회 | DP | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/15008/lessons/121684) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/%5BPCCP%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%231%5D%202%EB%B2%88%20-%20%EC%B2%B4%EC%9C%A1%EB%8C%80%ED%9A%8C.py) | 🔥🔥 |
 | 땅따먹기 | DP | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.py) | 🔥 |
 | 숫자 변환 | DP, index | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154538#qna) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/%EC%88%AB%EC%9E%90%20%EB%B3%80%ED%99%98.md) | 🔥 |
 | 뒤에 있는 큰 수 찾기 | DP, index | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/%EC%88%AB%EC%9E%90%20%EB%B3%80%ED%99%98.md) | 🔥 |
@@ -96,6 +95,7 @@
 | 1로 만들기 | DP | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/1463) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/1463%EB%B2%88.py) | 🔥 |
 | 계단 오르기 | DP | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/2579) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/1463%EB%B2%88.py) | 🔥 |
 | 가장 큰 증가하는 부분 수열 | DP | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/11055) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/11055%EB%B2%88.py) | 🔥 |
+| 1로 만들기 2 | DP | 백준 | Silver 3 | [문제](https://www.acmicpc.net/problem/12852) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/1463%EB%B2%88.py) | 🔥 |
 
 
 </details>
@@ -169,9 +169,10 @@
 | 카펫 | 구현 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%BF%8D.md) | 🔥 |
 | 우박수열 정적분 | 구현 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/134239#qna) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%BF%8D.md) | 🔥 |
 | 방문 길이 | 구현 | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%BF%8D.md) | 🔥 |
+
 | 최고의 집합 | 구현 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/Haapq.py) | 🔥 |
 | 인사 고과 | 구현 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC.md) | 🔥 |
-| 불량 사용자 | 구현 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.md) | 🔥 |
+| 불량 사용자 | 구현 | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC.md) | 🔥 |
 | | | | | | | |
 | 수열 | 구현 | 백준 | Silver 4 | [문제](https://www.acmicpc.net/problem/2491) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/Heap/Haapq.py) | 🔥 |
 | 비슷한 단어 | 구현 | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/2607) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EA%B5%AC%ED%98%84/2607%EB%B2%88.py) | 🔥 |
@@ -198,6 +199,8 @@
 
 | 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
+| 체육대회 | DP | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/15008/lessons/121684) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/%5BPCCP%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%231%5D%202%EB%B2%88%20-%20%EC%B2%B4%EC%9C%A1%EB%8C%80%ED%9A%8C.py) | 🔥🔥 |
+||||||||
 | N-Q | 백트래킹 | 백준 | Gold 5 | [문제](https://www.acmicpc.net/problem/9663) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EB%B0%B1%ED%8A%B8%EB%A0%88%ED%82%B9/N-Q.py) | 🔥 |
 
 </details>

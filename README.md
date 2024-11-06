@@ -97,6 +97,7 @@
 | 가장 큰 증가하는 부분 수열 | DP | 백준 | Silver 2 | [문제](https://www.acmicpc.net/problem/11055) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/11055%EB%B2%88.py) | 🔥 |
 | 1로 만들기 2 | DP | 백준 | Silver 1 | [문제](https://www.acmicpc.net/problem/12852) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | 🔥 |
 | RGB 거리 | DP | 백준 | Silver 1 | [문제](https://www.acmicpc.net/problem/1149) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/RGB.md) | 🔥 |
+| 포도주 | DP | 백준 | Silver 1 | [문제](https://www.acmicpc.net/problem/2156) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/RGB.md) | 🔥 |
 
 
 </details>

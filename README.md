@@ -204,6 +204,7 @@
 | 문제 이름 | 세부 유형 | 출처 | 난이도 | [문제](#) | [풀이](#) | 풀이 횟수 |
 |:-----------------:|:------------:|:------:|:----:|:-------:|:-------:|:--------:|
 | 체육대회 | DP | 프로그래머스 | Lv 2 | [문제](https://school.programmers.co.kr/learn/courses/15008/lessons/121684) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/%5BPCCP%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%231%5D%202%EB%B2%88%20-%20%EC%B2%B4%EC%9C%A1%EB%8C%80%ED%9A%8C.py) | 🔥🔥 |
+| 양과 늑대 | DFS | 프로그래머스 | Lv 3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/DP/%5BPCCP%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%231%5D%202%EB%B2%88%20-%20%EC%B2%B4%EC%9C%A1%EB%8C%80%ED%9A%8C.py) | 🔥 |
 ||||||||
 | N-Q | 백트래킹 | 백준 | Gold 5 | [문제](https://www.acmicpc.net/problem/9663) | [풀이](https://github.com/gwon477/TIL/blob/main/%EC%9C%A0%ED%98%95%EB%B3%84%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%EC%9D%B4/%EB%B0%B1%ED%8A%B8%EB%A0%88%ED%82%B9/N-Q.py) | 🔥 |
 

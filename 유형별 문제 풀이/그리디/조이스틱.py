@@ -12,12 +12,11 @@ def solution(name):
         next_i = i + 1
         while next_i < len(name) and name[next_i] == 'A':
             next_i += 1
-        print("i",i)
-        print("next_i",next_i)
+
         # 최소 이동 경로 계산: 현재 위치에서 i까지의 이동과 다시 돌아가는 경로
         moves = i + i + len(name) - next_i
         min_moves = min(min_moves, moves)
-        print(moves)
+
 
     # 최종 결과 반환: 알파벳 변경 횟수의 합과 최소 이동 횟수
     return sum(dp) + min_moves
